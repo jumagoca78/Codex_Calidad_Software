@@ -1,7 +1,7 @@
 {
   "name": "codex_calidad_software",
   "version": "1.0.0",
-  "description": "Reposotorio de prueba para curso de calidad de software",
+  "description": "Repositorio de prueba para curso de calidad de software",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
